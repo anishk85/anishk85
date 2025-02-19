@@ -10,17 +10,16 @@
 
 ## 🚀 About Me  
 
-I'm a **MERN Full-Stack Web Developer** who breathes **React** on the frontend and orchestrates **Node.js & Express** on the backend.  
-I build UIs **smoother than butter**, design APIs that **flow like poetry**, and optimize performance like a **caffeine-fueled wizard**.  
+Hey there! 👋 I'm a **MERN Full-Stack Web Developer** who enjoys working with **React** on the frontend and **Node.js & Express** on the backend.  
+I love building **clean, efficient, and user-friendly** web applications while constantly learning and improving my skills.  
 
-✨ Whether it’s **crafting pixel-perfect designs**, **engineering scalable backends**, or **making databases dance**,  
-I’m here to **turn code into magic**.  
+Most of my time goes into **writing code, debugging issues, and experimenting with new technologies**. I find joy in solving complex problems and optimizing performance.  
 
-🔥 Let's **hack, break, and build** something epic!  
+When I’m not coding, I’m probably exploring **DevOps, cybersecurity, or deployment strategies** to level up my development workflow.  
 
----
+Always open to discussions, collaborations, and new ideas! Feel free to reach out. 🚀  
 
-## 💻 Tech Stack  
+
 
 ## 💻 Tech Stack  
 
