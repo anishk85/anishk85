@@ -173,7 +173,7 @@ Stack       ROS2 · PyTorch · Nav2 · Aerostack2
 
 <br/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anishk85&theme=github_dark" alt="contribution calendar"/>
+<img width="100%" src="https://raw.githubusercontent.com/anishk85/anishk85/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph"/>
 
 </div>
 
