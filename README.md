@@ -202,7 +202,6 @@ Stack       ROS2 · PyTorch · Nav2 · Aerostack2
 
 <div align="center">
 
-> _"From a warehouse floor to drone swarms — still figuring out why the EKF drifts."_
 
 ⭐️ From [anishk85](https://github.com/anishk85)
 
