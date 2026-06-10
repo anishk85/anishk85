@@ -18,12 +18,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: anishk85
-          SETTING_JSON: |
-            {
-              "githubUserName": "anishk85",
-              "backgroundColor": "#0D1117",
-              "type": "GitHubDark"
-            }
       - name: Commit & Push
         run: |
           git config user.email "action@github.com"
