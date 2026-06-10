@@ -173,7 +173,7 @@ Stack       ROS2 · PyTorch · Nav2 · Aerostack2
 
 <br/>
 
-<img src="https://ghchart.rshah.org/00C2FF/anishk85" width="100%" alt="contribution chart"/>
+<img src="https://ghchart.rshah.org/anishk85" width="100%" alt="contribution chart"/>
 
 </div>
 
