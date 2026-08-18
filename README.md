@@ -164,21 +164,6 @@ Stack       ROS2 · PyTorch · Nav2 · Aerostack2
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                      ACTIVITY GRAPH                               -->
 <!-- ════════════════════════════════════════════════════════════════ -->
-
-## 📈 &nbsp; Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anishk85&theme=tokyo-night&bg_color=0D1117&color=00C2FF&line=6C63FF&point=00FFC6&hide_border=true&area=true" alt="activity graph"/>
-
-<br/>
-
-<img width="100%" src="https://raw.githubusercontent.com/anishk85/anishk85/main/profile-3d-contrib/profile-gitblock.svg" alt="3D contribution graph"/>
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6C63FF,50:00C2FF,100:00FFC6&height=2" />
-
 <!-- ════════════════════════════════════════════════════════════════ -->
 <!--                         CONNECT                                   -->
 <!-- ════════════════════════════════════════════════════════════════ -->
