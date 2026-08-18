@@ -38,7 +38,7 @@
 
 **IIT Mandi undergrad** at the intersection of classical robotics and deep learning. I build systems that navigate, perceive, and act — on real hardware and in simulation.
 
-Currently extending JdeRobot's multi-agent framework for drone simulations as a **GSoC 2026 Contributor**, and doing navigation + arm control for **Team Deimos'** custom-built Mars rover.
+Currently extending JdeRobot's Robotics Academy to support multi-agent framework for drone simulations as a **GSoC 2026 Contributor**, and doing navigation + arm control for **Team Deimos'** custom-built Mars rover.
 
 </td>
 <td width="4%"></td>
